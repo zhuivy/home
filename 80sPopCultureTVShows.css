@@ -1,0 +1,60 @@
+body.body
+{
+	background-color: #E88481;
+}
+h1.h1
+{
+	text-align: center;
+	font-size: 45px;
+	font-family: Helvetica MS;
+	color: Purple;
+}
+a.a
+{
+	font-size: 25px;
+	font-family: Georgia MS;
+}
+p.p
+{
+	font-size: 20px;
+	font-family: Comic Sans MS;
+}
+h2.h2
+{
+	font-size: 30px;
+	font-family: Times New Roman MS;
+	color: green;
+}
+table.table
+{
+	border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    background-color:white;
+}
+th.th
+{
+	border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 19px;
+    font-family: Bookman MS;
+}
+td.td
+{
+	border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 18px;
+    font-family: Bookman MS;
+}
+ul.ul
+{
+	font-size:20px;
+	font-family: Tahoma MS;
+}
+li.li
+{
+	font-size: 20px;
+}
+	

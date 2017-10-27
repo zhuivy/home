@@ -1,0 +1,20 @@
+body
+{
+	background-color: #AFEAD6;
+}
+h2
+{
+	text-align:center;
+	font-size:45px;
+	font-family: Monaco MS;
+}
+h3
+{
+	font-size:30px;
+	font-family: Calibri MS;
+}
+ul, li
+{
+	font-size:20px;
+	font-family: Times New Roman MS;
+}

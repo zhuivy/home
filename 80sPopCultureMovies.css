@@ -1,0 +1,73 @@
+#body
+{
+	background-color: #BF85F1;
+}
+#h1
+{
+	text-align: center;
+	font-size: 48px;
+	font-family: Comic Sans MS;
+	color: green;
+}
+#a01, #a02
+{
+	text-align:center;
+	font-size: 28px;
+	font-family: Times New Roman MS;
+}
+#p01
+{
+	font-size: 22px;
+	font-family: Bookman MS;
+}
+#MS
+{
+	font-size: 30px;
+	font-family: Garamond MS;
+	color: red;
+}
+#p02
+{
+	font-size: 19px;
+	font-family: Bookman MS;
+}
+#table, #th01, #th02, #td01, #td02, #td03, #td04, #td05, #td06, #td07, #td08, #td09, #td10, #td11, #td12, #td13, #td14, #td15, #td15, #td17, #td18, #td19, #td20
+{
+	border: 4px solid black;
+    border-collapse: collapse;
+    background-color: white;
+    text-align: center;
+    margin:1em auto;
+}
+#BMOTC
+{
+	font-size: 30px;
+	font-family: Garamond MS;
+	color: red;
+}
+#p03
+{
+	font-size: 19px;
+	font-family: Bookman MS;
+}
+#p04
+{
+	font-size: 22px;
+	font-family: Times New Roman MS;
+}
+#li01, #li02, #li03, #li04, #li05, #li06, #li07, #li08, #li09, #li10, #li11, #li12, #li13, #li14, #li15, #li16, #li17, #li18, #li19, #li20, #li21, #li22, #li23, #li24, #li25, #li26
+{
+	font-size: 18px;
+	font-family: Arial MS;
+}
+#img02, #img03, #img05, #img06
+{
+	padding: 15px;
+} 
+#img07, #img08, #img09, #img10, #img11, #img12, #img13, #img14
+{
+	float: right;
+	padding-left: 15px;
+    padding-right: 15px;
+} /*There are a lot of selectors and declarations in this stylesheet!*/
+ 

@@ -1,0 +1,38 @@
+#body
+{
+	background-color: #FCB769;
+}
+#h1
+{
+	text-align: center;
+	font-size: 45px;
+	font-family: Garamond MS;
+	color: hsl(0, 40%, 50%);
+}
+#a01, #a02
+{
+	font-size: 25px;
+	font-family: Trebuchet MS;
+}
+#p01, #p02
+{
+	font-size: 22px;
+	font-family: Lucida Sans Unicode MS;
+}
+#PSOTC, #PA
+{
+	font-size: 30px;
+	font-family: Helvetica MS;
+	color: #8187E8;
+}
+#ul, #ol
+{
+	font-size: 25px;
+	font-family: Comic Sans MS;
+}
+#img01, #img02, #img03, #img04, #img06, #img07
+{
+	float: right;
+	padding-left: 10px;
+    padding-right: 10px;
+}
